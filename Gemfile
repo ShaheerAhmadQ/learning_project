@@ -73,3 +73,4 @@ end
 
 gem 'searchkick', '~> 4.01'
 gem "elasticsearch"
+gem 'sidekiq'
